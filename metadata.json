@@ -1,0 +1,6 @@
+{
+  "name": "Hệ Thống Ôn Thi Toán Học AI",
+  "description": "Nền tảng luyện thi và khảo sát trực tuyến kết nối Google Drive, Google Sheets và AI Gemini chấm điểm tự động.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
